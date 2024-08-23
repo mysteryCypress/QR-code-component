@@ -28,8 +28,6 @@ body {
 
 #container {
     min-width: 80px;
-    position: relative;
-    top: 10vh;
     box-sizing: content-box;
     width: 20vw;
     background-color: var(--white);
